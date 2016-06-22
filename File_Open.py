@@ -1,0 +1,1 @@
+File_open = open('File.txt',r)
